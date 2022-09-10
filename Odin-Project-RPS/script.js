@@ -10,6 +10,11 @@ for (let i = 0; i < 5;) {
         i = 5;
     }
 
+    let array = [
+    ["X", "Y", "D"],
+    ["Y", "D", "X"],
+    ["D", "X", "Y"]
+    ]
 
     function getComputerChoice() {
         
